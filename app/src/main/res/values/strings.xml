@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Food Calculator</string>
+
+    <string-array name="diet_array">
+        <item>omnivore</item>
+        <item>vegan</item>
+        <item>vegetarian</item>
+    </string-array>
+
+    <string-array name="yesNo_array">
+        <item />
+        <item>true</item>
+        <item>false</item>
+    </string-array>
+</resources>
